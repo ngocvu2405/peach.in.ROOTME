@@ -3,14 +3,13 @@
 Khi mở cheallenge, không có bất kì nội dung gì trong trang web.
 
 Đọc hint ở đề bài, ta thấy gợi ý mở source view (Ctrl+U)
-![hdi1](https://imgur.com/9yqXfNz)
+![hdi1](https://i.imgur.com/9yqXfNz.png?1)
 
 Thử nhấn Ctrl+U ta thấy source có comment:
-![hdi2](https://imgur.com/vUEkySg)
-<img src="https://imgur.com/vUEkySg">
+[Imgur](https://i.imgur.com/9yqXfNz.png?1)
 
 Thử vào branch được tiết lộ ở include, ta thấy có vẻ đã đi sai hướng rồi :(
-![hdi3](https://imgur.com/lFice5m)
+![hdi3](https://i.imgur.com/lFice5m.png)
 
 Shh... Không sao cả, xem lại đề chút xem nào... Đề bài kêu mình là Directory... thử scan web xem có ra gì hem nào?
 Ta dùng dirsearch kiếm thử, thấy có 4 mục status 200:
