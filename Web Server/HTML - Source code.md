@@ -6,7 +6,6 @@ Trong challenge này khi mở bài lên ta thấy một trang web login: nhập 
 
 Xem source code ta thấy một đoạn mã giấu ở hơi xa xa bằng dòng comment:
 
-'''
-password : nZ^&@q5&sjJHev0
-'''
+`password : nZ^&@q5&sjJHev0`
+
 -> Đây chính là flag
