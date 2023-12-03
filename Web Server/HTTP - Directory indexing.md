@@ -1,9 +1,9 @@
-###Link challenge: [HTTP-Directory-indexing](https://www.root-me.org/en/Challenges/Web-Server/HTTP-Directory-indexing)
+## Link challenge: [HTTP-Directory-indexing](https://www.root-me.org/en/Challenges/Web-Server/HTTP-Directory-indexing)
 
 Khi mở cheallenge, không có bất kì nội dung gì trong trang web.
 
 Đọc hint ở đề bài, ta thấy gợi ý mở source view (Ctrl+U)
-<img src="https://imgur.com/9yqXfNz">
+![] (https://imgur.com/9yqXfNz)
 
 Thử nhấn Ctrl+U ta thấy source có comment:
 <img src="https://imgur.com/vUEkySg">
