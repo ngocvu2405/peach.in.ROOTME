@@ -20,7 +20,7 @@ Ta dùng dirsearch kiếm thử, thấy có 4 mục status 200:
 [23:52:46] 200 -  252B  - /web-serveur/ch4/index.html  --> cái này mới vào là thấy rùi nè'''
 
 Thử ngay trang 200 đầut iên ta đã thấy rằng:
-![hdi4](https://imgur.com/yrJQ3KB)
+![hdi4](https://imgur.com/yrJQ3KB](https://i.imgur.com/yrJQ3KB.png)
 
 Chà chà, bắt được vàng rồi đây, xem thử dễ dàng tìm thấy FLAG được giấu ở dir: /web-serveur/ch4/admin/backup/admin.txt
 
