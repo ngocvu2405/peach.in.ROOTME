@@ -16,4 +16,3 @@ Check log: `git log` ta thấy có một commit khả nghi, chắc là password 
 Show: `git show` đọc nội dung thì thấy luôn được password:
 
 ![img3](https://i.imgur.com/U3LZCWv.png)
-
